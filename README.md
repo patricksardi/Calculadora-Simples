@@ -6,8 +6,8 @@ projeto simples de calculadora
 
 int main()
 {
-    int N,i,produto;
-    printf("deseja a tabuada para qual valor?");
+    int N, i, produto;
+    printf ("deseja a tabuada para qual valor?");
     scanf("%d", &N);
 
     for (i = 1; i <= 10; i++){
